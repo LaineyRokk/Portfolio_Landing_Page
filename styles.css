@@ -1,0 +1,11 @@
+img {
+  float: left;
+}
+h1 {
+  color: dark green;
+}
+.sidebar {
+  width: 55%;
+  float: right;
+  background-color: gold;
+}
